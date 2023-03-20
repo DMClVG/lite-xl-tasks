@@ -12,8 +12,8 @@ config.plugins.tasks = {
   ["build"] = function()
     -- build task
   end,
-  ["run"] = function()
-    -- run task
+  ["test"] = function()
+    -- test task
   end,
 -- ...
 }
